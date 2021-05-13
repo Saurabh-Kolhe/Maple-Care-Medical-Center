@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Maple Care Medical Center </title>
+
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/fontawsom-all.min.css">
+     <link rel="stylesheet" href="assets/css/animate.css">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+     
+     <link rel="stylesheet" href="assets/css/datepicker.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+  </head>
+    <body id="appoint-body">
+      <script src="assets/js/testscript.js"></script>
+      <header id="menu-jk">
+        <div id="nav-head" class="header-nav">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2 col-md-3 no-padding col-sm-12 nav-img">
+                        <a href="index.html#"><img src="assets/images/logo.png" alt=""></a>
+                       <a data-toggle="collapse" data-target="#menu" href="#menu" ><i class="fas d-block d-md-none small-menu fa-bars"></i></a>
+                    </div>
+                    <div id="menu" class="col-lg-8 col-md-9 d-none d-md-block nav-item">
+                        <ul>
+                            <li><a href="index.html#">Home</a></li>
+                            <li><a href="index.html#services">Services</a></li>
+                            <li><a href="index.html#about_us">About Us</a></li>
+                            <li><a href="index.html#gallery">Gallery</a></li>
+                            <li><a href="index.html#contact_us">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+      <div class="inner-layer">
+          <div class="container">
+            <div class="row no-margin">
+                <div class="col-sm-7">
+                    <div class="content">
+                      <div id="updatedata">
+                        <h1>Book Your slot now and save your time</h1>
+                        <br><br>
+                        <h2>Emergency : +91-9112291122</h2>
+                        <h2>Helpdesk : +91-9311293112</h2>
+                      </div>
+                      <br><br>
+                      <div class="form-body">
+                        <button class="btn btn-success btn-check-appoint" onclick="window.location.href='appoint.html'">
+                        <b>Book &nbspAppointment</b>
+                        </button>
+                      </div>
+                      
+                  </div>
+                </div>
+                <div class="col-sm-5">
+                    <div class="form-data">
+                        <div class="form-head">
+                        <center><h2>Check &nbspAppointment &nbspStatus</h2></center>
+                        </div>
+                        <div class="form-body">
+                            <div class="row form-row">
+                              <input type="number" id="inum" placeholder="Enter Mobile Number" class="form-control" onkeyup="return validateNum()">
+                              <span id="pnum"></span>
+                            </div>
+                            <div class="row form-row">
+                              <button class="btn btn-success btn-appointment" id="sendotpbutton" onclick="return sendOTP()">
+                              <b>Send OTP</b>
+                              </button>
+                              <br>
+                              <span id="psend"></span>
+                             </div>
+                            <div id="divotp">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+      </div>
+      <script src="assets/js/testscript.js"></script>
+    </body>
+  
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="assets/js/jquery-3.2.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    
+</html>

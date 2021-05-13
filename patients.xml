@@ -1,0 +1,114 @@
+<HOSPITAL>
+<PATIENT>
+<NAME>Akash Gupta</NAME>
+<MOBNO>9876543210</MOBNO>
+<EMAIL>akashg@gmail.com</EMAIL>
+<DEPT>Cardiology</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Karunesh Talwar</NAME>
+<MOBNO>1234567890</MOBNO>
+<EMAIL>karunesh@gmail.com</EMAIL>
+<DEPT>General OPD</DEPT>
+<DATE>2021-04-25</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Karunesh Talwar</NAME>
+<MOBNO>1234567890</MOBNO>
+<EMAIL>karunesh@gmail.com</EMAIL>
+<DEPT>Diabetology</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Abhishek Upmanyu</NAME>
+<MOBNO>1234567891</MOBNO>
+<EMAIL>abhishek@rediffmail.com</EMAIL>
+<DEPT>Oncology</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Karunesh Talwar</NAME>
+<MOBNO>1234567890</MOBNO>
+<EMAIL>karunesh@gmail.com</EMAIL>
+<DEPT>Dentistry</DEPT>
+<DATE>2021-04-12</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Rahul Dua</NAME>
+<MOBNO>1234567892</MOBNO>
+<EMAIL>rahul_dua@yahoo.com</EMAIL>
+<DEPT>Dentistry</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Tanmay Bhat</NAME>
+<MOBNO>1234567893</MOBNO>
+<EMAIL>tanmay@gmail.com</EMAIL>
+<DEPT>Diabetology</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Rahul Subramanium</NAME>
+<MOBNO>1234567894</MOBNO>
+<EMAIL>rahul_sub@yahoo.com</EMAIL>
+<DEPT>Dermatology</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Samay Raina</NAME>
+<MOBNO>1234567895</MOBNO>
+<EMAIL>samay@gmail.com</EMAIL>
+<DEPT>Oncology</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Nishant Suri</NAME>
+<MOBNO>1234567896</MOBNO>
+<EMAIL>nishant@gmail.com</EMAIL>
+<DEPT>Surgery</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Biswa Rath</NAME>
+<MOBNO>1234567897</MOBNO>
+<EMAIL>biswa@gmail.com</EMAIL>
+<DEPT>Pediatrics</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Zakir Khan</NAME>
+<MOBNO>1234567898</MOBNO>
+<EMAIL>zakir@rediffmail.com</EMAIL>
+<DEPT>Neurology</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Atul Khatri</NAME>
+<MOBNO>1234567899</MOBNO>
+<EMAIL>atul@yahoo.com</EMAIL>
+<DEPT>Pediatrics</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Vipul Goyal</NAME>
+<MOBNO>9876543211</MOBNO>
+<EMAIL>vipul@gmail.com</EMAIL>
+<DEPT>Dentistry</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Urooj Ashfaq</NAME>
+<MOBNO>9876543212</MOBNO>
+<EMAIL>urooj@gmail.com</EMAIL>
+<DEPT>Mother and Child Care</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+<PATIENT>
+<NAME>Vipul Goyal</NAME>
+<MOBNO>9876543211</MOBNO>
+<EMAIL>vipul@gmail.com</EMAIL>
+<DEPT>General</DEPT>
+<DATE>2021-04-13</DATE>
+</PATIENT>
+</HOSPITAL>
